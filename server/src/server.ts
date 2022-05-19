@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 const app = express();
 
 app.use(cors({
-  origin: "http://localhost:3000, https://nlw-return-impulse-omega-smoky.vercel.app",
+  origin: "https://nlw-return-impulse-omega-smoky.vercel.app/",
 }))
 
 app.use(express.json());
