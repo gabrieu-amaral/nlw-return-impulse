@@ -88,4 +88,4 @@ $ npm run start
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-<p align="center">Feito com 💜 por Leandro Azanniel</p>
+<p align="center">Feito com 💜 por Gabriel Amaral</p>
