@@ -1,11 +1,12 @@
 import { CloseButton } from "../CloseButton";
-import bugImageUrl from "../../../assets/Bug.svg"
-import ideaImageUrl from '../../../assets/Idea.svg'
-import thoughtImageUrl from '../../../assets/Thought.svg'
+import bugImageUrl from "../../../assets/gif-bug.gif"
+import ideaImageUrl from '../../../assets/idea.gif'
+import thoughtImageUrl from '../../../assets/thought.gif'
 import { useDebugValue, useState } from "react";
 import { FeedbackTypeStep } from "./steps/FeedbakcTypeStep";
 import { FeedbackContentStep } from "./steps/FeedbackContentStep";
 import { FeedbackSucessStep } from "./steps/FeedbackSucessStep";
+
 
 export const feedbackTypes = {
     BUG: {
