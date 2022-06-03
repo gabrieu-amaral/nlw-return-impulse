@@ -10,7 +10,9 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/Azanniel/nlw-return?color=blueviolet">
 </p>
 
-![image]([<a href="https://gifyu.com/image/SxAG9"><img src="https://s8.gifyu.com/images/gif-do-widget.gif" alt="gif-do-widget.gif" border="0" /></a>](https://s8.gifyu.com/images/gif-do-widget.gif)
+<p align="ceter">
+   <img src="toReadme/gif do widget.gif">
+</p>
 
 ## 🏃‍♂️Jornada
 
