@@ -79,16 +79,6 @@ $ npm run start
 # Após isso escaneie o código QR no seu aplicativo Expo
 ```
 
-<<<<<<< HEAD
-## ☕ Contatos
-
- você vai me encontrar em qualquer uma das redes sociais abaixo:
-
-<a href = "mailto: leo.azannielttt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
-<a href="https://www.linkedin.com/in/leandroazanniel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-=======
->>>>>>> fe5e36752fdb638b0797f96c8b76f3eb83c9e4f3
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
